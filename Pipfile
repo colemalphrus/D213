@@ -8,6 +8,8 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 statsmodels = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
