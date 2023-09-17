@@ -10,6 +10,7 @@ matplotlib = "*"
 statsmodels = "*"
 sqlalchemy = "*"
 psycopg2-binary = "*"
+seaborn = "*"
 
 [dev-packages]
 
