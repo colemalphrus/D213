@@ -13,6 +13,7 @@ psycopg2-binary = "*"
 seaborn = "*"
 pmdarima = "*"
 nltk = "*"
+tensorflow = "*"
 
 [dev-packages]
 
