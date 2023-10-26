@@ -8,6 +8,12 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 statsmodels = "*"
+sqlalchemy = "*"
+psycopg2-binary = "*"
+seaborn = "*"
+pmdarima = "*"
+nltk = "*"
+tensorflow = "*"
 
 [dev-packages]
 
